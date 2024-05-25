@@ -72,6 +72,3 @@ This project is licensed under the MIT License.
 
 Contributions are welcome! Open an issue or submit a pull request for any improvements or suggestions. Let's make this app even better together! 🌟
 
----
-
-Feel free to add more fun elements or further customize this README to suit your project's personality!
