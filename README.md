@@ -12,7 +12,7 @@ Welcome to the Weather App! 🌍 A simple yet powerful application to fetch and 
 - 🚀 **Guided Tour**: A friendly tour to help you navigate the app.
 
 ## 📷 Demo
-![youtube video](https://www.youtube.com/watch?v=vjH1UGa8CmA)
+[![YouTube](https://img.youtube.com/vi/vjH1UGa8CmA/maxresdefault.jpg)](https://www.youtube.com/watch?v=vjH1UGa8CmA)
 
 ## 📸 Screenshots
 
