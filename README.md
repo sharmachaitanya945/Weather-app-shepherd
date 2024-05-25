@@ -17,7 +17,7 @@ Welcome to the Weather App! 🌍 A simple yet powerful application to fetch and 
 
 ## 📸 Screenshots
 
-![Weather App Screenshot](images/screenshot.png)
+![Weather App Screenshot](images/Screenshot.png)
 
 ## 📷 Demo
 
