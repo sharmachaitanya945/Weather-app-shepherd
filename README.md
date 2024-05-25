@@ -11,6 +11,9 @@ Welcome to the Weather App! 🌍 A simple yet powerful application to fetch and 
 - 🎨 **Modern Design**: Sleek and user-friendly interface.
 - 🚀 **Guided Tour**: A friendly tour to help you navigate the app.
 
+## 📷 Demo
+![youtube video](https://www.youtube.com/watch?v=vjH1UGa8CmA)
+
 ## 📸 Screenshots
 
 ![Weather App Screenshot](images/screenshot.png)
